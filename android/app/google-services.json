@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "238902911452",
+    "project_id": "iskcon-8c701",
+    "storage_bucket": "iskcon-8c701.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238902911452:android:0efd0a4536a43bf0d06f19",
+        "android_client_info": {
+          "package_name": "com.iskconapp.iskcon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238902911452-ugdq06jl9j9gfvpinb55kg8tbm2vabrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iskconapp.iskcon",
+            "certificate_hash": "bb74cde37240153471012dd7dd3a06093661f7c0"
+          }
+        },
+        {
+          "client_id": "238902911452-uepka7eftn6ie51t658sv5ih8nrs6idt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCR9nlWWGbwEik82diGxxGu4DZNsyeJII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238902911452-uepka7eftn6ie51t658sv5ih8nrs6idt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "238902911452-gffncbi1d92evj6nckk1h6coasfirrg2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iskconapp.iskcon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
